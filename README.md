@@ -1,6 +1,6 @@
-python -m venv venv -->For installing Virtual Environment  
+python -m venv venv   --> For installing Virtual Environment  --
 
-cd venv/scripts && activate && cd ../../ -->For activating virtual environment  
+cd venv/scripts && activate && cd ../../   -->For activating virtual environment  
 
 pip install django -->For installing django
 
